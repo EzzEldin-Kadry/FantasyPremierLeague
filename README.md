@@ -1,8 +1,8 @@
 # FantasyPremierLeague
 
-A Web Api For Fantasy Premier League Game
+A RESTful web service Web API For Fantasy Premier League Game
 
-## Tools & Techs: 
+## Featuring:
 
 - ASP.NET CORE 6 - RESTful API
 - Visual Studio 2022
@@ -11,3 +11,4 @@ A Web Api For Fantasy Premier League Game
 - LINQ
 - Repository Pattern
 - DTO & AutoMapper
+- Full CRUD Requests
