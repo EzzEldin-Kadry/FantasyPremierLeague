@@ -10,4 +10,4 @@ A Web Api For Fantasy Premier League
 - Entity Framework Core
 - LINQ
 - Repository Pattern
-- AutoMapper
+- DTO & AutoMapper
