@@ -1,6 +1,6 @@
 # FantasyPremierLeague
 
-A Web Api For Fantasy Premier League 
+A Web Api For Fantasy Premier League Game
 
 ## Tools & Techs: 
 
