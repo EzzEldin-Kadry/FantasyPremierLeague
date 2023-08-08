@@ -1,6 +1,6 @@
 # FantasyPremierLeague
 
-A RESTful web service Web API For Fantasy Premier League Game. Implemented in (Sep 2022).
+A RESTful web service Web API For Fantasy Premier League Game (Sep 2022).
 
 *This project has been created and developed solely by me, Ezzeldin Kadry, as an individual effort*
 
